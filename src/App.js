@@ -8,6 +8,7 @@ function App() {
         <h1>Hello World</h1>
         <p>This is my first react project.</p>
         <a href='https://github.com/Damianpad'>Git Hub</a>
+        <a href='./portfolio.js'>Portfolio</a>
       </header>
     </div>
   );
