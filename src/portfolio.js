@@ -1,7 +1,7 @@
 import './App.css';
 
 function Portfolio() {
-<h1>Damian Padilla</h1>
+    console.log("Portfolio function... connected!");
 }
 
 export default Portfolio;

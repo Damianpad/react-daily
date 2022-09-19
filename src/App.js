@@ -7,10 +7,9 @@ function App() {
       <header className="App-header">
         <h1>Hello World</h1>
         <p>This is my first react project.</p>
-        <div class='link-container'>
-        <a href='https://github.com/Damianpad'>Git Hub</a>
-        <a href='./portfolio.js'>Portfolio</a>
-
+        <div className='link-container'>
+        <a href='https://github.com/Damianpad' target='_blank'>Git Hub</a>
+        <a href='../portfolio.js'>Portfolio</a>
         </div>
 
       </header>
