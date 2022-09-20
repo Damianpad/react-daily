@@ -10,6 +10,7 @@ function App() {
         <div className='link-container'>
         <a href='https://github.com/Damianpad' target='_blank'>Git Hub</a>
         <a href='../portfolio.js'>Portfolio</a>
+        <a href='../component.js'>Component</a>
         </div>
 
       </header>
